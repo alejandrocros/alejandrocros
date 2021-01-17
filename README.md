@@ -26,10 +26,10 @@ I have also contribued to some open source projects, such as HugginFace datasets
 
 <div style="text-align:center">
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrocros&count_private=true&show_icons=false&theme=dark&include_all_commits=true&show_icons=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandrocros&count_private=true&show_icons=false&theme=vue&include_all_commits=true&show_icons=true&hide=issues" />
 </a>
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocros&theme=dark&layout=compact&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocros&theme=vue&layout=compact&hide=jupyter%20notebook" />
 </a>
 </div>
 
@@ -37,7 +37,7 @@ I have also contribued to some open source projects, such as HugginFace datasets
 
 ### Technology Stack
 
-<img height="45" src="https://cdn.svgporn.com/logos/python.svg"> <img height="45" src="https://cdn.svgporn.com/logos/tensorflow.svg"> <img height="45" src="https://cdn.svgporn.com/logos/pytorch.svg"> <img height="45" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="45" src="https://cdn.svgporn.com/logos/typescript-icon.svg"> <img height="45" src="https://cdn.svgporn.com/logos/postgresql.svg"> <img height="45" src="https://cdn.svgporn.com/logos/mongodb.svg"> <img height="45" src="https://cdn.svgporn.com/logos/neo4j.svg"> <img height="45" src="https://cdn.svgporn.com/logos/docker.svg"> <img height="45" src="https://cdn.svgporn.com/logos/jenkins.svg"> <img height="45" src="https://cdn.svgporn.com/logos/bash.svg"> <img height="45" src="https://cdn.svgporn.com/logos/github-icon.svg"> <img height="45" src="https://cdn.svgporn.com/logos/git.svg"> <img height="45" src="https://cdn.svgporn.com/logos/linux-tux.svg"> <img height="45" src="https://cdn.svgporn.com/logos/git.svg"> <img height="45" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+<img height="45" src="https://cdn.svgporn.com/logos/python.svg"> <img height="45" src="https://cdn.svgporn.com/logos/tensorflow.svg"> <img height="45" src="https://cdn.svgporn.com/logos/pytorch.svg"> <img height="45" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="45" src="https://cdn.svgporn.com/logos/typescript-icon.svg"> <img height="45" src="https://cdn.svgporn.com/logos/postgresql.svg"> <img height="45" src="https://cdn.svgporn.com/logos/mongodb.svg"> <img height="45" src="https://cdn.svgporn.com/logos/neo4j.svg"> <img height="45" src="https://cdn.svgporn.com/logos/docker.svg"> <img height="45" src="https://cdn.svgporn.com/logos/jenkins.svg"> <img height="45" src="https://cdn.svgporn.com/logos/bash.svg"> <img height="45" src="https://cdn.svgporn.com/logos/github-icon.svg"> <img height="45" src="https://cdn.svgporn.com/logos/git.svg"> <img height="45" src="https://cdn.svgporn.com/logos/linux-tux.svg"> <img height="45" src="https://cdn.svgporn.com/logos/google-cloud.svg">
 
 <!--
 ![VISIT COUNT](https://visitor-badge.laobi.icu/badge?page_id=alejandrocros.alejandrocros)
