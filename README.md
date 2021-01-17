@@ -37,22 +37,7 @@ I have also contribued to some open source projects, such as HugginFace datasets
 
 ### Technology Stack
 
-<img height="45" src="https://cdn.svgporn.com/logos/python.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/pytorch.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/javascript.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/postgresql.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/mongodb.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/neo4j.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/docker.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/jenkins.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/bash.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/github-icon.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/git.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/git.svg">
-<img height="45" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+<img height="45" src="https://cdn.svgporn.com/logos/python.svg"> <img height="45" src="https://cdn.svgporn.com/logos/tensorflow.svg"> <img height="45" src="https://cdn.svgporn.com/logos/pytorch.svg"> <img height="45" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="45" src="https://cdn.svgporn.com/logos/typescript-icon.svg"> <img height="45" src="https://cdn.svgporn.com/logos/postgresql.svg"> <img height="45" src="https://cdn.svgporn.com/logos/mongodb.svg"> <img height="45" src="https://cdn.svgporn.com/logos/neo4j.svg"> <img height="45" src="https://cdn.svgporn.com/logos/docker.svg"> <img height="45" src="https://cdn.svgporn.com/logos/jenkins.svg"> <img height="45" src="https://cdn.svgporn.com/logos/bash.svg"> <img height="45" src="https://cdn.svgporn.com/logos/github-icon.svg"> <img height="45" src="https://cdn.svgporn.com/logos/git.svg"> <img height="45" src="https://cdn.svgporn.com/logos/linux-tux.svg"> <img height="45" src="https://cdn.svgporn.com/logos/git.svg"> <img height="45" src="https://cdn.svgporn.com/logos/google-cloud.svg">
 
 <!--
 ![VISIT COUNT](https://visitor-badge.laobi.icu/badge?page_id=alejandrocros.alejandrocros)
