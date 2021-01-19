@@ -17,9 +17,9 @@ I am an active Kaggle user (competitions expert). Some competitions I have taken
 
 - 💉  [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) (top 3% out of +1600 teams).
 - 🐦  [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition) (top 6% out of +1300 teams).
-- 📈  [Two Signma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news) (top 3% out of +2900 teams).
+- 📈  [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news) (top 3% out of +2900 teams).
 
-I have also contribued to some open source projects, such as HugginFace datasets 🤗 .
+I have also contributed to some open source projects, such as HugginFace datasets 🤗 .
 
 ---
 ### GitHub stats
