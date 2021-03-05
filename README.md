@@ -7,6 +7,7 @@ I'm Alejandro, an Artificial Intelligence Developer currently based in Paris wit
 
 #### Main interests:
 - Deep Learning (Natural Language Processing and Reinforcement Learning).
+- Ethical aspects of Artificial Intelligence.
 - Quantum Machine Learning.
 - Climate Technologies.
 
