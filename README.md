@@ -1,9 +1,12 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/alejandro-castro-ros/)
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alexine)
 
-### Hi there 👋
+## Hi there 👋
 
-I'm Alejandro, an Artificial Intelligence Developer currently based in Paris with background in Mathematics (BSc), Physics (BSc) and Computer Science (MSc).
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
+I'm Alejandro, an Artificial Intelligence Developer currently based in Paris with background in Mathematics (BSc), Physics (BSc) and Computer Science (MSc). I have 3 years of professional experience in Artificial Intelligence, both in research and development.
 
 #### Main interests:
 - Deep Learning (Natural Language Processing and Reinforcement Learning).
@@ -19,6 +22,16 @@ I am an active Kaggle user (competitions expert). Some competitions I have taken
 - 💉  [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) (top 3% out of +1600 teams).
 - 🐦  [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition) (top 6% out of +1300 teams).
 - 📈  [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news) (top 3% out of +2900 teams).
+
+
+Some personal projects that I have developed are:
+
+- ♟️ [mctchess](https://github.com/alejandrocros/monte_carlo_tree_chess): a Python implementation of Monte-Carlo Tree Search methods applied to the game of Chess [under development].
+
+- 🦅 [spacy-nlp-falcon](https://github.com/alejandrocros/spacy-nlp-falcon): Falcon API service with Spacy features.
+
+- 🎲    [Q-rangen](https://github.com/alejandrocros/Qrangen): a Quantum random number generator.
+
 
 I have also contributed to some open source projects, such as HugginFace datasets 🤗 .
 
