@@ -6,7 +6,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-I'm Alejandro, an Artificial Intelligence Developer currently based in Paris with background in Mathematics (BSc), Physics (BSc) and Computer Science (MSc). I have 3 years of professional experience in Artificial Intelligence, both in research and development.
+I'm Alejandro, an Artificial Intelligence Developer currently based in Paris with background in Mathematics (BSc), Physics (BSc) and Computer Science (MSc). I have 3 years of professional experience in Artificial Intelligence, both in Research and Development.
 
 #### Main interests:
 - Deep Learning (Natural Language Processing and Reinforcement Learning).
@@ -33,7 +33,7 @@ Some personal projects that I have developed are:
 - 🎲    [Q-rangen](https://github.com/alejandrocros/Qrangen): a Quantum random number generator.
 
 
-I have also contributed to some open source projects, such as HugginFace datasets 🤗 .
+I have also contributed to some open source projects, such as HuggingFace datasets 🤗 .
 
 ---
 ### GitHub stats
