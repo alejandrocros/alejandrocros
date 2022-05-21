@@ -6,7 +6,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-I'm Alejandro, an Artificial Intelligence Developer currently based in Paris with background in Mathematics (BSc), Physics (BSc) and Computer Science (MSc). I have 3 years of professional experience in Artificial Intelligence, both in Research and Development.
+I'm Alex, an Artificial Intelligence Research Engineer at Google Paris.
 
 #### Main interests:
 - Deep Learning (Natural Language Processing and Reinforcement Learning).
